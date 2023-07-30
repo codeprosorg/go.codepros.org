@@ -1,0 +1,10 @@
+{
+    "domain": "go.codepros.org",
+    "docsDomain": "pkg.go.dev",
+    "repositories": [
+        {
+            "prefix": "ctf",
+            "url": "https://github.com/codeprosorg/ctf"
+        },
+    ]
+}
